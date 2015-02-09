@@ -1,4 +1,4 @@
-# hell-world
+hell-world
 ============
 
 Hi, Humans!
